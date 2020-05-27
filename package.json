@@ -3,8 +3,14 @@
     "displayName": "crip-extension-pack",
     "description": "an extension pack for the crip",
     "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "crip",
     "engines": {
         "vscode": "^1.45.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/conacyt-arquitectura/crip-extension-pack"
     },
     "categories": [
         "Extension Packs"
